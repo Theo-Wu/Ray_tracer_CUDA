@@ -1,2 +1,3 @@
-# Ray_tracer_CUDA
-Implement a ray tracer with CUDA
+
+## Reflection and refraction
+![image](img/sample.png)
