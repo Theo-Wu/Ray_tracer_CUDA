@@ -10,3 +10,5 @@ then
 ```
 ## Reflection and refraction
 ![image](img/sample.png)
+## random spheres
+![image](img/random_spheres.png)
